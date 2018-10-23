@@ -1,0 +1,27 @@
+{
+  "name": "dojo-async",
+  "version": "1.0.0",
+  "description": "## Handle asynchronous with callbacks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dojo-javascript/async.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dojo-javascript/async/issues"
+  },
+  "homepage": "https://github.com/dojo-javascript/async#readme",
+  "dependencies": {
+    "@types/node": "^10.12.0",
+    "npx": "^10.2.0",
+    "prettier": "^1.14.3",
+    "ts-node": "^7.0.1",
+    "tslint": "^5.11.0",
+    "typescript": "^3.1.3"
+  }
+}
